@@ -46,3 +46,5 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
+#Microsoft.OutlookForWindows
+#MicrosoftCorporationIT.MicrosoftFamily
